@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://hianime-mapper-delta.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://anikatsu-api-2024-tau.vercel.app/"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
