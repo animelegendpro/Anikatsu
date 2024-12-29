@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://anikatsu-api-2024-eight.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://aniwatch-api-tau-flax.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
